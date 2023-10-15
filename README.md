@@ -6,7 +6,7 @@ This is a simple to-do list project using HTML, CSS, Javascript, and Firebase.
 
 Here is a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZU2Y6-8B3A0)
 
 # Cloud Database
 
